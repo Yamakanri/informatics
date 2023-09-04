@@ -1,0 +1,17 @@
+# informatics
+ITMO 1 Year, ПИиКТ, 1 semester, Informatics Labs
+
+Tasks of labs:
+1lab – Translation of numbers between different number systems
+2lab – Synthesis of error-correcting code (Hamming code)
+3lab – Regular expressions
+4lab – Writing parsers for ML-languages
+5lab – Working with binary code in Excel
+6lab – Page layout on LaTeX 
+
+New Skills after this course:
+Studied non-standard number systems and gained skills to work with them
+Ability to work with error-correcting code
+Mobilize coding with familiarity with regular expressions
+Improving non-standard skills in working with Excel
+Meeting with LaTeX
